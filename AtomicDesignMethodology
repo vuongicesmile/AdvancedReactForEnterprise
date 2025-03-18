@@ -1,0 +1,19 @@
+
+Chia làm 5 phần
+atoms (nguyên tử)
+molecules (phân tử)
+organisms (sinh vật)
+templates (mẫu)
+pages (trang)
+
+
+từ nguyên tử => nhiều nguyên tử thành phân tử => thành vật => thành 1 mẫu => rồi thành 1 trang 
+
+Chuyển thành thuật ngữ web 
+
+Atoms giống như label/ input / button
+
+Molecules (phân tử)
+=> sự kết hợp của các thành phần này tạo thành input search (gồm label , input, button search)
+
+organisms : là navbar navigation : gồm như button  phía bên tên
